@@ -1,0 +1,5 @@
+# agregar los archivos que se quiere que se ignore
+
+*.iml
+
+.idea/
